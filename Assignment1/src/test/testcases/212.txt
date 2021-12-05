@@ -1,0 +1,9 @@
+
+        class Example1 {
+            void main(){
+            float a;
+            a:=3.0;
+            io.writeFloatLn(a);
+            }
+        }
+        

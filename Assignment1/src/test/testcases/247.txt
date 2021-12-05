@@ -1,0 +1,7 @@
+class WAP {
+            static void main(int arg){
+                int a=5;
+                a.foo().a.f();
+                x := (a.b[0]).a;
+            }
+        }

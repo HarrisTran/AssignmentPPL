@@ -1,0 +1,1 @@
+Program([ClassDecl(Id(hello),[MethodDecl(Id(trinh),Instance,[],ClassType(Id(lam)),Block([],[Call(Id(a),Id(while),[])]))]),ClassDecl(Id(goobye),[])])

@@ -1,0 +1,28 @@
+
+        class Geometry {
+            float length,width;
+            float getArea() {}
+            Geometry(float length,width){
+                this.length := "length";
+                this.width := width;
+            }
+        }
+        class Rectangle extends Geometry {
+            float getArea(){
+            return this.length*this.width;
+            }
+        }
+        class Triangle extends Geometry {
+            float getArea(){
+            return this.length*a.foo()[2];
+            }
+        }
+        class Example2 {
+            void main(){
+            s := new Rectangle(3,4);
+            io.writeFloatLn(s.getArea());
+            s := new Triangle(3,4);
+            io.writeFloatLn(s.getArea());
+            }
+        }
+        

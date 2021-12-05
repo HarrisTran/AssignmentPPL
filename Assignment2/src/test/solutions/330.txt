@@ -1,0 +1,1 @@
+Program([ClassDecl(Id(hello),[AttributeDecl(Instance,VarDecl(Id(a),ArrayType(12,FloatType),Id(asdas)))]),ClassDecl(Id(goobye),[])])

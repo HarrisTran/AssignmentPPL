@@ -1,0 +1,9 @@
+
+        class foo {
+            int foo(int a,b,c){
+                for i := 5 to 9 do io.printf(5);
+                if a == 8 then { a:= b; x.foo();}
+                }
+        }
+        class foo{static int z,b = true;}
+        

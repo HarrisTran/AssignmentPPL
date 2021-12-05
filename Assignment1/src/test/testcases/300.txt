@@ -1,0 +1,12 @@
+
+            class BKoolClass extends Dang {
+                boolean rang;
+                static void main(){
+                    io.writeInt(3);
+                }
+            }
+            class Dang{
+                int a=4;
+            }
+            
+        

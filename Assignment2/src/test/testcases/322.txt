@@ -1,0 +1,9 @@
+class hello {
+          a(){
+          a a = 0;
+          }
+          #helllo world ;
+          #shold i do some thing;
+          }
+          class goobye {
+          }

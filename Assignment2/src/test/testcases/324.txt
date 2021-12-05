@@ -1,0 +1,9 @@
+class hello {
+          a(){boolean a;
+          boolean[100] a = a;
+          a := true;
+          }
+
+          }
+          class goobye {
+          }

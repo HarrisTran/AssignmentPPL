@@ -1,0 +1,7 @@
+class main {
+                            float getArea(){
+                x.b[2] := x.m()[3];
+                a[3+x.foo(2)] := a[b[2]] +3;
+                return this.length*this.width;
+                }
+           }

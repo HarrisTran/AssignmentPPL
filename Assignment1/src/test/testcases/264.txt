@@ -1,0 +1,8 @@
+
+        class WAP {
+            M m = new Num(a,b,c,a+c,a[x.foo()+2*5/3]);
+            static ABC foo(float c,d; boolean g; int c){
+                return true;
+            }
+        }
+        

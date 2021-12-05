@@ -1,0 +1,12 @@
+class Example2 extends ABC {
+                    float length,width;
+                    float getArea() {}
+                    Geometry(float length,width){
+                        this.length := length;
+                        this.width := width;
+                    }
+                    void main(){
+                        a[x+b.foo(2)+3] := a[b[2]+6]+3;
+                        t.y[0] := r.len()[10];
+                    }
+        }

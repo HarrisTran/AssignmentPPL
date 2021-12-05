@@ -1,0 +1,11 @@
+
+        class WAP {
+            A a = 9; Boo b = this.a; foo c = new X();
+            static ABC foo(float c,d; boolean g; int c){
+                A a = new X();
+                B b = new X(2,3)[x.foo(m)];
+                A a,b,c;
+                B c,d,e;
+            }
+        }
+        

@@ -1,0 +1,10 @@
+class QuotientRemainder {
+                        static final int numOfGeometry = 0;
+                        final int b=0;
+                        float a,b=5,r=3.14;
+                        final static string hcmut= "hello";
+                        static int get(){
+                            a := b[3+m.foo(1)];
+                            return 22;
+                        }
+                    }

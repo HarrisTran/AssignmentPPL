@@ -1,0 +1,6 @@
+class main {
+               int x(){
+if !!!!!!!!!a && !!!!!!aWDADASD || asdasdasd then c :=a;
+
+               }
+           }

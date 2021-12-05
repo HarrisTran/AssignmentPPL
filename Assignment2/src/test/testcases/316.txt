@@ -1,0 +1,7 @@
+class hello {
+          int note(){
+            return this.v;
+          }
+          }
+          class goobye {
+          }

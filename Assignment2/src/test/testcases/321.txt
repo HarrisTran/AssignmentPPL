@@ -1,0 +1,7 @@
+class hello {
+          int a = a + b + c - a * a / w % r \ v ^ "" ;
+          }
+          class goobye {
+          a a = aaaaaaaaa ,a,w,e,qasdas ,dasdas ,ffdfsdf;
+          asdwq qw ,asdasdasd,asdasda;
+          }

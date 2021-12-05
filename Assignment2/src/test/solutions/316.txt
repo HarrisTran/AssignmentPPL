@@ -1,0 +1,1 @@
+Program([ClassDecl(Id(hello),[MethodDecl(Id(note),Instance,[],IntType,Block([],[Return(FieldAccess(Self(),Id(v)))]))]),ClassDecl(Id(goobye),[])])

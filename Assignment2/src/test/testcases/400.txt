@@ -1,0 +1,52 @@
+#Represent a node of the singly linked list
+        class Node{
+            int data;  
+            Node next;  
+            Node(int data) {
+                this.data := data;  
+                this.next := null;  
+            }
+        }  
+        class modifyNode{
+            #Represent the head and tail of the singly linked list
+            Node head = null;
+            Node tail = null; 
+            void addNode(int data) {
+                Node newNode = new Node(data);
+                if head == nil then {
+                    head := newNode;  
+                    tail := newNode;  
+                }
+                else {
+                    this.next := newNode;
+                }
+            }
+            int deleteFromEnd() {
+                if head == null then {
+                    System.out.println("List is empty");
+                    return 1;
+                }
+                else {
+                    if head != tail then {
+                        Node current = head;
+                    }
+                    tail := current;  
+                    this.next := null;
+                }
+            }
+            void display() {
+                Node current = head;
+                if head == nil then {
+                    System.out.println("List is empty");
+                }
+            }
+            static void main(String[1] args) {
+                DeleteEnd sList = new DeleteEnd(); 
+                sList.addNode(1);
+                sList.addNode(2);
+                sList.addNode(3);
+                sList.addNode(4);
+                System.out.println("Original List: ");  
+                sList.display();
+            }
+        }

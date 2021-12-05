@@ -1,0 +1,9 @@
+
+          class hello {
+          int buongnuqua(){int khocdi = 00; str sad;
+          tram cam = khoc + sad;
+          }
+          }
+          class goobye {
+          }
+          

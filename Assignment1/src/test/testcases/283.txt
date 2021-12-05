@@ -1,0 +1,13 @@
+
+        class foo {
+            static final int x = 0*0, y, z = 9;
+            final static int[5] b,c;
+            int[5] cam(){
+                if i == 0 then
+                    if b >= 0 then c:= 9;
+                    else return 2 + x.foo(8);
+                else if !node then continue;
+                     else if c == 2 then return this.name;
+            }
+        }
+        

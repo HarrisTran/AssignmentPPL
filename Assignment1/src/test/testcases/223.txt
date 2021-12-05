@@ -1,0 +1,18 @@
+
+        class Geometry {
+            static float length,width;
+            final float getArea;
+            Geometry(float length,width){
+                this.length := "length";
+                this.width := width;
+            }
+        }
+        class Rectangle extends Geometry {
+        }
+        class Example2 {
+            void main(){
+            s := new Rectangle(3,4);
+            (b.coo().d.ass()).o();
+            }
+        }
+        

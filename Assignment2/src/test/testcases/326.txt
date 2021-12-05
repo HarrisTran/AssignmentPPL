@@ -1,0 +1,7 @@
+
+          class hello {
+          a a(){a := "r  ,as'damsd ladaslfasmfmakmc asdalmqwr3 923jimwef ";}
+          }
+          class goobye {
+          }
+          

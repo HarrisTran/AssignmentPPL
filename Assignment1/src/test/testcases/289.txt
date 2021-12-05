@@ -1,0 +1,9 @@
+
+        class foo {
+            string s ="huhuhu";
+            int[5] cam(){int a,b[5];}
+            }
+            foo(){{}{}}
+            int[5] b;
+        }
+        

@@ -1,0 +1,10 @@
+
+        class foo {
+            int function(A a,b,c; H n){
+                int k = 9, m =10;
+                m := n;
+                return x.foo();
+                int n;
+            }
+        }
+        

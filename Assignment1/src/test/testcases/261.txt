@@ -1,0 +1,6 @@
+
+        class WAP {
+            static final int[2] b = {1,2,3,4,true,5.e4};
+            foo(boolean a){final int x,y = 0;}
+        }
+        

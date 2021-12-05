@@ -1,0 +1,11 @@
+
+          class hello {
+          a(int a; int b ; int c){
+          this.visit(a);
+          this.visit(b);
+          if a == b then return c; else this.kill(c);
+          }
+          }
+          class goobye {
+          }
+          

@@ -1,0 +1,1 @@
+Program([ClassDecl(Id(hello),[AttributeDecl(Instance,VarDecl(Id(a),IntType,IntLit(213))),AttributeDecl(Instance,VarDecl(Id(asd),IntType,Id(asd))),AttributeDecl(Instance,VarDecl(Id(a),IntType,StringLit("")))]),ClassDecl(Id(goobye),[])])

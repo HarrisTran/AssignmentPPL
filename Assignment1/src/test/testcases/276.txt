@@ -1,0 +1,7 @@
+
+        class foo {
+            foo(){{}{}}
+            int a,b,c;
+        }
+        class foo{static int z,b = true;}
+        

@@ -1,0 +1,7 @@
+
+        class foo {
+            int[5] cam.foo(){int a,b;}
+            }
+            foo;
+        }
+        

@@ -1,0 +1,6 @@
+
+        class ABCD {
+            string a = a\2 + 7 > 8*5 + 3 ;
+            A[5] a = x.m()[7] + a*b[x.foo() + !(c*d) - (b||-c && !m);
+        }
+        

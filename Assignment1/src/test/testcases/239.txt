@@ -1,0 +1,13 @@
+class Geometry {
+                        static final int numOfGeometry = 0;
+                        final int immuAttribute = 0;
+                        float length,width;
+                        static int getNumOfGeometry() {
+                            return numOfGeometry;
+                        }
+                    }
+                    class Rectangle extends Geometry {
+                        float getArea(){
+                            return this.length*this.width;
+                        }
+                    }

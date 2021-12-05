@@ -1,0 +1,6 @@
+class hello {
+            int a(){s:= a; b:=c; }
+          }
+          class goobye {
+          main(){int a =0; b:= a.s[1];}
+          }

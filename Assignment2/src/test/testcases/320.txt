@@ -1,0 +1,5 @@
+class hello {
+          }
+          class goobye {
+          a bb(){continue;xxx.xxx[2] := aaa.aaa(a)[aaa];}
+          }

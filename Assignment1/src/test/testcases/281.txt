@@ -1,0 +1,12 @@
+
+        class Rectangle extends Geometry {
+            B b = 9;
+            float getArea(){
+                final int c;
+                int[5] ab;
+                a[0]:= 5.3e6 + c.foo(x);
+                return this.length*this.width*2;
+                int a = 7;
+            }
+        }
+        

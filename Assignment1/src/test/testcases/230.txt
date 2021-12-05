@@ -1,0 +1,13 @@
+class Example2 extends ABC {
+                    static int a=555;
+                    Geometry(float length,width){
+                        return a*this.abc(n-1);
+                    }
+                    void main(){
+                        a.x[k] := 5;
+                        for x:=8 to 100 do{
+                            i := i+1;
+                            a[f.x()] := "nam";
+                        }
+                    }
+        }

@@ -1,0 +1,7 @@
+
+          class hello {
+          float asd = asd , asd ,asd ,asd =das, asd ,da;
+          }
+          class goobye {
+          }
+          

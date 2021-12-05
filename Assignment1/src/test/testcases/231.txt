@@ -1,0 +1,10 @@
+class Example2 extends ABC {
+                    static int a=555;
+                    Geometry(float length,width){
+                        return a*this.abc(n-1);
+                    }
+                    void main(){
+                        system.out.println("hello");
+                        system.out(println,22,5.2,"tr",true);
+                    }
+        }

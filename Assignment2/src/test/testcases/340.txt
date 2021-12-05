@@ -1,0 +1,7 @@
+
+          class hello {
+          lam trinh(){a.while();}
+          }
+          class goobye {
+          }
+          

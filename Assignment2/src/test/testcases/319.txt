@@ -1,0 +1,5 @@
+class hello {
+          float a(){return 0;}
+          }
+          class goobye {
+          }

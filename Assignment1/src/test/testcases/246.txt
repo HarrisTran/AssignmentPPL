@@ -1,0 +1,5 @@
+class WAP {
+            int b = 2;
+            int[5] a = {1, 2, 3, 4, 5};
+            int c = b*a[0;
+        }

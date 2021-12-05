@@ -1,0 +1,6 @@
+
+        class foo {
+
+        }
+        class foo{static int z,b = true;}
+        

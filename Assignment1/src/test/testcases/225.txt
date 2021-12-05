@@ -1,0 +1,10 @@
+class Example2 extends ABC {
+	float length,width;
+	float getArea() {}
+	Geometry(float length,width; int alo; string re){
+
+	}
+	void main(){
+
+	}
+}

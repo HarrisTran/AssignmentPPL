@@ -1,0 +1,8 @@
+
+        class foo {
+            int a,b = true, c = false, e = {34,56,true,false};
+            final float a,m,d = 9;
+        }
+        class foo{static int z,b = true;}
+        class main{}
+        

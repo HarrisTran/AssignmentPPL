@@ -1,0 +1,10 @@
+
+        class foo {
+            Ab[5] n = this.Geometry(x.foo(5)[4]*(!m) + (s >= m || m+-n));
+            H[5] function(A a,b,c; H n){
+                int k = 9;
+                m := n;
+                int n;
+            }
+        }
+        

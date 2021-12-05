@@ -1,0 +1,8 @@
+
+        class foo {
+            int[5] cam(){
+            }
+            foo(){{}{}}
+            B.boo(a) = 8*j;
+        }
+        

@@ -1,0 +1,16 @@
+class Example2 extends ABC {
+                        int length,width;
+                        float getArea() {}
+                        Geometry(float length,width){
+                            this.length := length;
+                            this.width := width;
+                        }
+                        void main(){
+                            s := new A();
+                            a.a().a := 12;
+                            this.a := 12;
+                            io.writeFloatLn(s.getArea());
+                            s := new Triangle(3,4);
+                            io.writeFloatLn(s.getArea());
+                        }
+                    }

@@ -1,0 +1,1 @@
+Program([ClassDecl(Id(hello),[MethodDecl(Id(<init>),Instance,[],Block([VarDecl(Id(a),BoolType),VarDecl(Id(a),ArrayType(100,BoolType),Id(a))],[AssignStmt(Id(a),BooleanLit(True))]))]),ClassDecl(Id(goobye),[])])

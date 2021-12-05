@@ -1,0 +1,7 @@
+
+        class foo{
+            static final int x, y = 7;
+            final int m = 9*a ,k = x.m()[6*a];
+            int main(){ x.b[2] := 8*x.m()[3]; return true;}
+        }
+        

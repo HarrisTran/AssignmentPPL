@@ -1,0 +1,11 @@
+
+        class ID {
+            string name;
+            ID(){
+                this.name:=nil;
+            }
+            ID(string name = "empty"){
+                this.name:=name;
+            }
+        }
+        

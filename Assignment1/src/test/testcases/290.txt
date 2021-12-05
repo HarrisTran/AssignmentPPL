@@ -1,0 +1,8 @@
+
+        class foo {
+            string s ="huhuhu", l = true;
+            int[5] cam(){int a,b;}
+            }
+            foo;
+        }
+        

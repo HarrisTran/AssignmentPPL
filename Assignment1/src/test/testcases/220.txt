@@ -1,0 +1,13 @@
+
+        class ID {
+            static int[4] total={0,0,0,0};
+            string name;
+            ID(){
+                this.name:=nil;
+            }
+            ID(string name){
+                this.name:=name;
+                ID.total[0] := ID.total[0] +1;
+            }
+        }
+        

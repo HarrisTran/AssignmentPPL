@@ -1,0 +1,19 @@
+class Geometry {
+                        float length,width;
+                        float getArea() {}
+                        Geometry(float length,width){
+                            this.length := length;
+                            this.width := width;
+                        }
+                    }
+                    class Example2 {
+                        void main(){
+                            Exam[2] x = {1.2, 3.4, 5};
+                            Geometry s = new Rectangle(3,4);
+                            io.writeFloatLn(s.getArea());
+                            s := 2+3-95*74;
+                            io.writeFloatLn(s.getArea());
+                            y := {1.2 ,2, 3};
+                            return a;
+                        }
+                    }

@@ -1,0 +1,9 @@
+
+        class Geometry {
+            float length,width;
+            float getArea() {}
+            Geometry(float length,width){
+                this.length := 1+2/3.0;
+            }
+        }
+        

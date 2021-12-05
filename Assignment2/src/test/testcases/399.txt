@@ -1,0 +1,11 @@
+
+            class BkoolClass{
+                static float d;
+                float bb;
+                void static main(){
+                    int d;
+                    d := 5;
+                    io.writeInt(d);
+                }
+            }
+        

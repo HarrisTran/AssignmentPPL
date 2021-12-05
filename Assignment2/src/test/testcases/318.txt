@@ -1,0 +1,7 @@
+class hello {
+          a a(){
+          for i:=1 to end do a:=0;
+          }
+          }
+          class goobye {
+          }

@@ -1,0 +1,9 @@
+class hello {
+                          float length,width;
+                int[3] a = {1,2,3};
+                static int get() {
+                return num;
+          }
+          }
+          class goobye {
+          }

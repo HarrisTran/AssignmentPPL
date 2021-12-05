@@ -1,0 +1,7 @@
+
+          class hello {
+          string a = asd ,a213, wwe;
+          }
+          class goobye {
+          }
+          

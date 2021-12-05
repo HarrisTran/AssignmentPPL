@@ -1,0 +1,10 @@
+
+        class foo {
+        int x,y;
+        static final int a = 10;
+            static int function(A a,b,c; H n){
+                final int a = 9;
+                {}{}
+            }
+        }
+        

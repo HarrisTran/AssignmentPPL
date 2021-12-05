@@ -1,0 +1,7 @@
+
+        class Example1 extends {
+            void main(){
+            string a = "Hello world \n";
+            }
+        }
+        

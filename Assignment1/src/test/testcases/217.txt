@@ -1,0 +1,13 @@
+
+        class ID {
+            string name;
+            ID(){
+                this.name:=nil;
+            }
+            void not(){
+               string b;
+               b:="I dont know";
+               this.name:=this.name^b;
+            }
+        }
+        

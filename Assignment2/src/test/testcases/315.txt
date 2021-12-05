@@ -1,0 +1,7 @@
+
+          class hello {
+          final static asdasdjwioj genshin = lumia;
+          }
+          class goobye {
+          }
+          

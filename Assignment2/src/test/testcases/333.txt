@@ -1,0 +1,10 @@
+
+          class hello {
+          a(int d){int[4] b;
+          for i := 0 to z do
+          this.delete(g);
+          }
+          }
+          class goobye {
+          }
+          

@@ -1,0 +1,8 @@
+class main {
+               int x(){
+
+
+               }
+               final int My1stCons = 1 + 5,My2ndCons = 2;
+static int x,y = 0;
+           }

@@ -1,0 +1,6 @@
+class a extends ABD{
+            static int a=4,b=7;
+            float[0] area(int a,b; boolean r){
+
+            }
+        }

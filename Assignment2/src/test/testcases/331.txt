@@ -1,0 +1,7 @@
+
+          class hello {
+          int fun(i v;tr a){if a == 0 then b :=k;}
+          }
+          class goobye {
+          }
+          

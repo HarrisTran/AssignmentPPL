@@ -1,0 +1,19 @@
+
+        class WAP {
+            int func(int a,b; string c,d) {
+                if a == 0 then
+                    b := b + 1;
+                if b == 0 then
+                    b := b - a;
+                else
+                    c := d - 5 * 9 % 3;
+                if d == 0 then{
+                    a := 0;
+                    d := d * b;
+                    c := c ^ d;
+                    e := e * f;
+                    g := g + h;}
+                else return 0;
+            }
+        }
+        

@@ -1,0 +1,7 @@
+
+          class hello {
+          a(){a[asd[asdasa[asdasda]- asdas] - asdas] := 2;}
+          }
+          class goobye {
+          }
+          

@@ -1,0 +1,11 @@
+
+          class hello {
+          int fun(a a ; b b; c c){
+          final f f;
+          a a ;
+          a:= a + a;
+          }
+          }
+          class goobye {
+          }
+          

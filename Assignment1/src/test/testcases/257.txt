@@ -1,0 +1,19 @@
+
+        class WAP {
+            static int a = 0;
+            boolean[10000] a, b;
+            bool a = true;
+            string funcint a, b, float c) {
+                if a == 0 then
+                    b := b + 1;
+                if b == 0 then
+                    b := b - a;
+                else
+                    c := d - 5 * 9 % 3;
+                if d == 0 then
+                    a := 0;
+                else
+                    c := 12E-8 + 5;
+            }
+        }
+        

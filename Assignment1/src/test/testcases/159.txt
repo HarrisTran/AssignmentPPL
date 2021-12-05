@@ -1,0 +1,4 @@
+s := new A();
+                    a.a().a := 12;
+                    this.a := 12;
+                    io.writeFloatLn(s.getArea());

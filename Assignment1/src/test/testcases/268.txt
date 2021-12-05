@@ -1,0 +1,7 @@
+
+        class ABCD {
+            B[5] b = this.name;
+            boolean[6] a,b = {1,2,3,4,5.5}, c = new X();
+            static B foo(float m,n; B b,c ; A[6] a){}
+        }
+        

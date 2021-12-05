@@ -1,0 +1,7 @@
+
+          class hello {
+          float[12] a = asdas ;
+          }
+          class goobye {
+          }
+          

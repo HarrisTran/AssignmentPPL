@@ -1,0 +1,6 @@
+class hello {
+          a(){{if block then {}}}
+          }
+
+          class goobye {
+          }

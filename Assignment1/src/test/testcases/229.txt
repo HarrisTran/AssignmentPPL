@@ -1,0 +1,18 @@
+class Example2 extends ABC {
+                    static final string[4] t=5;
+                    final float[4] c={1,2,3,5,2.5e-1,"khoa"};
+                    int[2] a;
+                    Geometry(float length,width){
+                        s := new A();
+                        a.a().a := 12;
+                        this.a := 12;
+                        io.writeFloatLn(s.getArea());
+                        s := new Triangle(3,4);
+                        io.writeFloatLn(s.getArea());
+                        (a.b[t0]).yt := 1;
+                        return a*this.abc(n-1);
+                    }
+                    void main(){
+                        a := 5+6-97*74;
+                    }
+        }

@@ -1,0 +1,7 @@
+
+          class hello {
+          int a = 213,asd= asd,a = "";
+          }
+          class goobye {
+          }
+          

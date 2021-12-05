@@ -1,0 +1,1 @@
+Program([ClassDecl(Id(hello),[MethodDecl(Id(<init>),Instance,[],Block([],[AssignStmt(ArrayCell(Id(a),BinaryOp(-,ArrayCell(Id(asd),BinaryOp(-,ArrayCell(Id(asdasa),Id(asdasda)),Id(asdas))),Id(asdas))),IntLit(2))]))]),ClassDecl(Id(goobye),[])])

@@ -1,0 +1,8 @@
+class z extends a {
+                    static int a=555;
+                    static string b="aaaaaaa";
+                    # aa /* cccc */a
+                    void main(){
+                        system.out(s.x(cc));
+                    }
+        }

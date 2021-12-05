@@ -1,0 +1,5 @@
+class hello {
+          a(){a a = new a() + new b();}
+          }
+          class goobye {
+          }

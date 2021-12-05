@@ -1,0 +1,7 @@
+
+          class hello {
+          a a = a[asd + 23 ];
+          }
+          class goobye {
+          }
+          

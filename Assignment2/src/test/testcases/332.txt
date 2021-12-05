@@ -1,0 +1,8 @@
+
+          class hello {
+          static int a;
+          foo(){return a;}
+          }
+          class goobye {
+          }
+          

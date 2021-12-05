@@ -1,0 +1,11 @@
+
+        class foo {
+            static final int x = 0*0, y, z = 9;
+            final static float[5] hcmut,hcmute;
+            int[5] cam(){
+                K k,m,n;
+                A a,b,c;
+                a := {5,7};
+            }
+        }
+        

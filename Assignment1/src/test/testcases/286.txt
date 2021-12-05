@@ -1,0 +1,8 @@
+
+        class foo {
+            int x.foo() = 9;
+            int[5] cam(){
+            }
+            foo(){{}{}}
+        }
+        

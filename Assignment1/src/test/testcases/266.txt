@@ -1,0 +1,5 @@
+
+        class ABC {
+            int c = !((a>=b) && (c<d) != 5 || -(abc && (c>=d)));
+        }
+        

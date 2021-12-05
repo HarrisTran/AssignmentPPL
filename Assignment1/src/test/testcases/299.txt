@@ -1,0 +1,11 @@
+
+        class WAP {
+            WAP(int a, b, c; string d; boolean e) {
+                for a := 5 to 10 do
+                    if b == 0 then
+                        return a[b[c[2]]] + 3;
+                    else
+                        return a[b + x.foo(a)] + 3;
+            }
+        }
+        

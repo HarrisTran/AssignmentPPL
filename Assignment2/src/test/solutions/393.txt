@@ -1,0 +1,1 @@
+Program([ClassDecl(Id(main),[MethodDecl(Id(x),Instance,[],IntType,Block([],[If(BinaryOp(||,BinaryOp(&&,UnaryOp(!,UnaryOp(!,UnaryOp(!,UnaryOp(!,UnaryOp(!,UnaryOp(!,UnaryOp(!,UnaryOp(!,UnaryOp(!,Id(a)))))))))),UnaryOp(!,UnaryOp(!,UnaryOp(!,UnaryOp(!,UnaryOp(!,UnaryOp(!,Id(aWDADASD)))))))),Id(asdasdasd)),AssignStmt(Id(c),Id(a)))]))])])

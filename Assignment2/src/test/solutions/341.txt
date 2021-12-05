@@ -1,0 +1,1 @@
+Program([ClassDecl(Id(hello),[MethodDecl(Id(fun),Instance,[param(Id(a),ClassType(Id(a))),param(Id(b),ClassType(Id(b))),param(Id(c),ClassType(Id(c)))],IntType,Block([ConstDecl(Id(f),ClassType(Id(f)),None),VarDecl(Id(a),ClassType(Id(a)))],[AssignStmt(Id(a),BinaryOp(+,Id(a),Id(a)))]))]),ClassDecl(Id(goobye),[])])

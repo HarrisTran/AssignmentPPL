@@ -1,0 +1,10 @@
+
+        class foo {
+            int[5] cam(){
+                K k,m,n;
+                A a,b,c;
+                a := {5,7};
+            }
+            foo(){{}{}}
+        }
+        

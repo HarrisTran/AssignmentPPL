@@ -1,0 +1,7 @@
+
+        class WAP {
+            int m,n = this.Geometry();
+            BOO k,c = !(a && b || c);
+            A a = -(!a + c*2/5 + b%2 + !(a == b.foo()[5])) ;
+        }
+        
