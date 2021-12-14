@@ -1,0 +1,7 @@
+class x {
+            int foo(){
+                int b = this.foo() + 4123;
+                int a;
+                a := 1 + 2;
+            }
+        }
